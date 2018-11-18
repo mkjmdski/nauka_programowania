@@ -13,7 +13,7 @@ def petla():
 
 
 def hello_world():
-    print('hello_world')
+    print('Hello world!')
 
 
 def warunek():
