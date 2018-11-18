@@ -21,3 +21,10 @@ def warunek():
         print(x)
         if x == 1:
             print('warunek spelniony')
+
+
+if __name__ == "__main__":
+    hello_world()
+    # dodawanie()
+    # petla()
+    # warunek()
